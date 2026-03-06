@@ -83,7 +83,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Notes',
+        title: 'My Study Notes',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
