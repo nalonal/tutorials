@@ -76,12 +76,6 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {
             href: 'https://github.com/nalonal',
             label: 'GitHub',
             position: 'right',
